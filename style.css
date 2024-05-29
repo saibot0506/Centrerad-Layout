@@ -28,3 +28,6 @@
     width: 70vw;
     margin-inline: auto;
   }
+  img{
+    max-width: 100%;
+  }

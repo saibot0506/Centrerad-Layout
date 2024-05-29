@@ -24,3 +24,7 @@
     font-weight: bold; 
     margin-right: 25px;
   }
+  .centered{
+    width: 70vw;
+    margin-inline: auto;
+  }
